@@ -16,7 +16,9 @@
    [ring/ring-json "0.5.1"]
    [compojure "1.7.0"]
    [http-kit "2.7.0-alpha1"]
-   [mount "0.1.17"]]
+   [mount "0.1.17"]
+   [cheshire "5.11.0"]
+   [hiccup "1.0.5"]]
 
   :main ^:skip-aot
   htmx-demo.core

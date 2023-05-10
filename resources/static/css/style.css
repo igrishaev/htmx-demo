@@ -1,0 +1,66 @@
+
+.form-item {
+    display: block;
+}
+
+.item {
+    display: flex;
+    width: 800px;
+}
+
+div.fname {
+    width: 350px;
+}
+
+div.lname {
+    width: 350px;
+}
+
+div.email {
+    width: 350px;
+}
+
+div.age {
+    width: 350px;
+}
+
+div.edit {
+    width: 200px;
+}
+
+div.delete {
+    width: 200px;
+}
+
+#content {
+    padding: 25px;
+}
+
+.header {
+    font-weight: bold;
+}
+
+a.delete {
+    cursor: pointer;
+}
+
+a.delete:hover {
+    color: red;
+}
+
+a.sort {
+    cursor: pointer;
+}
+
+div.form-item {
+    display: flex;
+}
+
+
+div.label {
+    width: 150px;
+}
+
+#items {
+    margin-bottom: 25px;
+}
